@@ -1,0 +1,14 @@
+.language{
+    font-size:.8rem  !important;
+    }
+    
+.central{
+    margin-top:15vh;
+    }
+.search-container{
+        border-radius:200px !important;
+        min-height: 44px;
+        }
+input:hover {
+          box-shadow: 0 0 10px rgba(0,0,0,.3);
+        }
